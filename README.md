@@ -1,4 +1,3 @@
-#About Me
 {
   Name : "Rohith Badrinath";
   Education : "Computer Science Engineering";
