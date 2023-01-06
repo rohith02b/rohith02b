@@ -28,3 +28,7 @@
 ### 📊 Stats
 
 ![Rohith02b's Github Stats](https://github-readme-stats.vercel.app/api?username=rohith02b&show_icons=true&theme=gruvbox)
+
+<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=rohith02b.rohith02b)
