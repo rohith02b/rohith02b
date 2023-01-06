@@ -1,6 +1,10 @@
 # Rohith Badrinath
 
-**`Web Developer`**      ![](https://visitor-badge.glitch.me/badge?page_id=rohith02b.rohith02b)
+**`Web Developer`**   
+
+<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=rohith02b.rohith02b)
 
 ### I'm pursuing my Bachelor of engineering in computer science at Sai Vidya Institute Of Technology and learning full-stack web development. I aspire to build web applications to solve real-world problems.
 
