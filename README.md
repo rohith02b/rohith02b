@@ -4,7 +4,7 @@
 
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rohith02b.rohith02b)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=rohith02b.rohith02b) -->
 
 ### I'm pursuing my Bachelor of engineering in computer science at Sai Vidya Institute Of Technology and learning full-stack web development. I aspire to build web applications to solve real-world problems.
 
@@ -31,5 +31,5 @@
 
 ### 📊 Stats
 
-![Rohith02b's Github Stats](https://github-readme-stats.vercel.app/api?username=rohith02b&show_icons=true&theme=gruvbox)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith02b&show_icons=true&theme=gruvbox)
 
