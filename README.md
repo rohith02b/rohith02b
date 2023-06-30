@@ -1,8 +1,8 @@
 # Rohith Badrinath
 
-**`Software Engineer`**   
+**` Software Engineer | Full Stack Developer `**   
 
-### I'm pursuing my Bachelor of engineering in computer science at Sai Vidya Institute Of Technology and learning full-stack web development. I aspire to build web applications to solve real-world problems.
+### I'm pursuing my Bachelor of Engineering in computer science at Sai Vidya Institute Of Technology and learning full-stack development. I aspire to build web applications to solve real-world problems.
 
 ---
 
